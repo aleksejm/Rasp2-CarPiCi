@@ -1,0 +1,31 @@
+Have fun and stay focused on the road while driving!
+
+My personal moderated version for Lexus with 7" touch screen.
+Any questions and/or suggestions are welcome :)
+I am Aleksej Mirnijs
+aleksejs.mirnijs@gmail.com
+
+So! How to install it:
+
+1. You need Raspbian Wheeze!!! image (can take from here http://downloads.raspberrypi.org/raspbian/images/raspbian-2015-05-07/)
+2. Install Wheeze on Your SD card (follow the instruction from !1.2.1! https://docs.google.com/file/d/0B__Rs5JF53-kNkZOOFVDVDBvb2s/edit)
+3. If You follow the instruction :) You will get my modified version of CarPC.
+
+What are the different:
+Changed all logos and background to Lexus;
+Added russian translation (English still availableble);
+Added in interface buttons: reboot, reloadskin, settings, USB unmount and mount;
+Updated Textures.xbt (modified with Lexus logos);
+Added Power LED indicator;
+Hard Reset/turnOn button;
+Added RTC real time clock (need connect RTC module);
+Chip temp controll with automated fan;
+Added automated power off then engine turned off and the key teked out (bonus PowerOFF schematic);
+Some future plans...
+
+The starting idea is teked from (special thanks):
+Andrei Istodorescu
+andrei.istodorescu@gmail.com
+http://engineeringdiy.freeforums.org/
+www.engineering-diy.blogspot.com
+http://engineeringdiy.freeforums.org/

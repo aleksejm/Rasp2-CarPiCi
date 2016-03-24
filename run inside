@@ -1,0 +1,2 @@
+sudo chmod -R a+rwx /home/pi
+sudo chmod -R a+rwx /home/pi/carpc/
