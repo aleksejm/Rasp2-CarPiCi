@@ -20,7 +20,7 @@ Added Power LED indicator;
 Hard Reset/turnOn button;
 Added RTC real time clock (need connect RTC module);
 Chip temp controll with automated fan;
-Added automated save power off then engine turned off and the key teked out (bonus PowerOFF schematic);
+Added automated safe power off then engine turned off and the key teked out (bonus PowerOFF schematic);
 Some future plans...
 
 The starting idea is teked from (special thanks):
